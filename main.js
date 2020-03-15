@@ -1,5 +1,5 @@
 $(document).ready(function () {
-	var ai = new aifyjs("n4azzmh2.5rgeBGRRZwq9qjioAQyKKueQLumdbBlI");
+	var ai = new aifyjs("692bgBDp.eCMHFWjxffQoFhESSpIvlAMRgM4XYOX2");
 
 	ai.labels();
 
